@@ -1,0 +1,836 @@
+{
+  "library": "upright-piano-KW",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/upright-piano-KW",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/upright-piano-kw-opus-48",
+  "branch": "main",
+  "fileCount": 67,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/",
+  "files": [
+    {
+      "file": "A0vH.opus",
+      "name": "A0vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A0vH.opus",
+      "size": 47983,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A0vL.opus",
+      "name": "A0vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A0vL.opus",
+      "size": 58526,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A1vH.opus",
+      "name": "A1vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A1vH.opus",
+      "size": 70883,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A1vL.opus",
+      "name": "A1vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A1vL.opus",
+      "size": 91933,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A2vL.opus",
+      "name": "A2vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A2vL.opus",
+      "size": 69404,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3vH.opus",
+      "name": "A3vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A3vH.opus",
+      "size": 33692,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3vL.opus",
+      "name": "A3vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A3vL.opus",
+      "size": 52064,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4vH.opus",
+      "name": "A4vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A4vH.opus",
+      "size": 28821,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4vL.opus",
+      "name": "A4vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A4vL.opus",
+      "size": 20119,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A5vH.opus",
+      "name": "A5vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A5vH.opus",
+      "size": 26459,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A5vL.opus",
+      "name": "A5vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A5vL.opus",
+      "size": 15385,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A6vH.opus",
+      "name": "A6vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A6vH.opus",
+      "size": 10859,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A6vL.opus",
+      "name": "A6vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A6vL.opus",
+      "size": 8184,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A7vH.opus",
+      "name": "A7vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A7vH.opus",
+      "size": 4946,
+      "note": "A7",
+      "midiNote": 105,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A7vL.opus",
+      "name": "A7vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/A7vL.opus",
+      "size": 4328,
+      "note": "A7",
+      "midiNote": 105,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B0vH.opus",
+      "name": "B0vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/B0vH.opus",
+      "size": 53204,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B1vH.opus",
+      "name": "B1vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/B1vH.opus",
+      "size": 62586,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B2vH.opus",
+      "name": "B2vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/B2vH.opus",
+      "size": 68649,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B3vH.opus",
+      "name": "B3vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/B3vH.opus",
+      "size": 46907,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B4vH.opus",
+      "name": "B4vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/B4vH.opus",
+      "size": 34800,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B5vH.opus",
+      "name": "B5vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/B5vH.opus",
+      "size": 28342,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B6vH.opus",
+      "name": "B6vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/B6vH.opus",
+      "size": 9999,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B7vH.opus",
+      "name": "B7vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/B7vH.opus",
+      "size": 6108,
+      "note": "B7",
+      "midiNote": 107,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C1vH.opus",
+      "name": "C1vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C1vH.opus",
+      "size": 77056,
+      "note": "C1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C1vL.opus",
+      "name": "C1vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C1vL.opus",
+      "size": 86180,
+      "note": "C1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2vH.opus",
+      "name": "C2vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C2vH.opus",
+      "size": 64144,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2vL.opus",
+      "name": "C2vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C2vL.opus",
+      "size": 90368,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3vH.opus",
+      "name": "C3vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C3vH.opus",
+      "size": 58144,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3vL.opus",
+      "name": "C3vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C3vL.opus",
+      "size": 40870,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4vL.opus",
+      "name": "C4vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C4vL.opus",
+      "size": 72682,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5vH.opus",
+      "name": "C5vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C5vH.opus",
+      "size": 29151,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5vL.opus",
+      "name": "C5vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C5vL.opus",
+      "size": 48442,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6vH.opus",
+      "name": "C6vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C6vH.opus",
+      "size": 21616,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6vL.opus",
+      "name": "C6vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C6vL.opus",
+      "size": 21418,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7vH.opus",
+      "name": "C7vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C7vH.opus",
+      "size": 15123,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7vL.opus",
+      "name": "C7vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C7vL.opus",
+      "size": 6406,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C8vH.opus",
+      "name": "C8vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C8vH.opus",
+      "size": 4086,
+      "note": "C8",
+      "midiNote": 108,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C8vL.opus",
+      "name": "C8vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/C8vL.opus",
+      "size": 2536,
+      "note": "C8",
+      "midiNote": 108,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds1vH.opus",
+      "name": "Ds1vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds1vH.opus",
+      "size": 77039,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds1vL.opus",
+      "name": "Ds1vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds1vL.opus",
+      "size": 108855,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds2vH.opus",
+      "name": "Ds2vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds2vH.opus",
+      "size": 73204,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds2vL.opus",
+      "name": "Ds2vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds2vL.opus",
+      "size": 104517,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds3vH.opus",
+      "name": "Ds3vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds3vH.opus",
+      "size": 47494,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds3vL.opus",
+      "name": "Ds3vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds3vL.opus",
+      "size": 51967,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds4vH.opus",
+      "name": "Ds4vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds4vH.opus",
+      "size": 43978,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds4vL.opus",
+      "name": "Ds4vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds4vL.opus",
+      "size": 39422,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds5vH.opus",
+      "name": "Ds5vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds5vH.opus",
+      "size": 31792,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds5vL.opus",
+      "name": "Ds5vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds5vL.opus",
+      "size": 25264,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds6vH.opus",
+      "name": "Ds6vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds6vH.opus",
+      "size": 17051,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds6vL.opus",
+      "name": "Ds6vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds6vL.opus",
+      "size": 10839,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds7vH.opus",
+      "name": "Ds7vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds7vH.opus",
+      "size": 4259,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds7vL.opus",
+      "name": "Ds7vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Ds7vL.opus",
+      "size": 8422,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs1vH.opus",
+      "name": "Fs1vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs1vH.opus",
+      "size": 55227,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs1vL.opus",
+      "name": "Fs1vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs1vL.opus",
+      "size": 86192,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs2vH.opus",
+      "name": "Fs2vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs2vH.opus",
+      "size": 79010,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs2vL.opus",
+      "name": "Fs2vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs2vL.opus",
+      "size": 85092,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs3vH.opus",
+      "name": "Fs3vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs3vH.opus",
+      "size": 47684,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs3vL.opus",
+      "name": "Fs3vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs3vL.opus",
+      "size": 40119,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4vH.opus",
+      "name": "Fs4vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs4vH.opus",
+      "size": 39194,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4vL.opus",
+      "name": "Fs4vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs4vL.opus",
+      "size": 50888,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5vH.opus",
+      "name": "Fs5vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs5vH.opus",
+      "size": 19579,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5vL.opus",
+      "name": "Fs5vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs5vL.opus",
+      "size": 19041,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs6vH.opus",
+      "name": "Fs6vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs6vH.opus",
+      "size": 11710,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs6vL.opus",
+      "name": "Fs6vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs6vL.opus",
+      "size": 10572,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs7vH.opus",
+      "name": "Fs7vH.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs7vH.opus",
+      "size": 4119,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs7vL.opus",
+      "name": "Fs7vL.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/Fs7vL.opus",
+      "size": 4055,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "UprightPianoKW-20220221.opus",
+      "name": "UprightPianoKW-20220221.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/upright-piano-kw-opus-48/main/UprightPianoKW-20220221.opus",
+      "size": 9510,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "21": [
+      "A0vH.opus",
+      "A0vL.opus"
+    ],
+    "23": [
+      "B0vH.opus"
+    ],
+    "24": [
+      "C1vH.opus",
+      "C1vL.opus"
+    ],
+    "33": [
+      "A1vH.opus",
+      "A1vL.opus"
+    ],
+    "35": [
+      "B1vH.opus"
+    ],
+    "36": [
+      "C2vH.opus",
+      "C2vL.opus"
+    ],
+    "45": [
+      "A2vL.opus"
+    ],
+    "47": [
+      "B2vH.opus"
+    ],
+    "48": [
+      "C3vH.opus",
+      "C3vL.opus"
+    ],
+    "57": [
+      "A3vH.opus",
+      "A3vL.opus"
+    ],
+    "59": [
+      "B3vH.opus"
+    ],
+    "60": [
+      "C4vL.opus"
+    ],
+    "69": [
+      "A4vH.opus",
+      "A4vL.opus"
+    ],
+    "71": [
+      "B4vH.opus"
+    ],
+    "72": [
+      "C5vH.opus",
+      "C5vL.opus"
+    ],
+    "81": [
+      "A5vH.opus",
+      "A5vL.opus"
+    ],
+    "83": [
+      "B5vH.opus"
+    ],
+    "84": [
+      "C6vH.opus",
+      "C6vL.opus"
+    ],
+    "93": [
+      "A6vH.opus",
+      "A6vL.opus"
+    ],
+    "95": [
+      "B6vH.opus"
+    ],
+    "96": [
+      "C7vH.opus",
+      "C7vL.opus"
+    ],
+    "105": [
+      "A7vH.opus",
+      "A7vL.opus"
+    ],
+    "107": [
+      "B7vH.opus"
+    ],
+    "108": [
+      "C8vH.opus",
+      "C8vL.opus"
+    ]
+  }
+}
